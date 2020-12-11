@@ -2,7 +2,7 @@
 
 You can put here your stimuli (i.e. face images, interesting databases, etc.) used for design your experiments.
 
-Create a **New Folder** into this one with another **readme.md file** to explain the content of your folder.
+Create a **New Folder** into this one with another **readme.md** file to explain the content of your folder.
 
 ## How to create a new folder
 
